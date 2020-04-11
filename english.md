@@ -15,3 +15,4 @@ Books
 - [一键生成听力卡 音频听力 Youtube 油管牌组](https://www.ankitube.com)  一键生成听力卡 音频听力 Youtube 油管牌组
 - [youglish](https://youglish.com/) 
 - [https://easypronunciation.com/](https://easypronunciation.com/) https://easypronunciation.com/ 
+- [https://www.playphrase.me/#/search](https://www.playphrase.me/#/search) 单词视频搜索
