@@ -5,6 +5,12 @@
 - [The Merriam-Webster Learnersdictionary](https://learnersdictionary.com/definition/derive) 学习型词典，用简单词汇解释，简单明了
 - [forvo.com](forvo.com) forvo.com 
 
+翻译
+- [https://www.deepl.com/translator](https://www.deepl.com/translator) 人工智能语言辅助 DeepL训练人工智能来 理解和翻译文本。
+- [https://fanyi.baidu.com/](https://fanyi.baidu.com/) 百度翻译
+- [https://fanyi.sogou.com/?fr=websearch](https://fanyi.sogou.com/?fr=websearch) 搜狗翻译 ，特有【写作助手】
+
+
 Books
 - [语法书](https://www.thefreedictionary.com/The-Farlex-Grammar-Book.htm)
 
