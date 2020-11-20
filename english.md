@@ -4,6 +4,7 @@
 - [freethesaurus](https://www.freethesaurus.com/) 近义词，单词地图，多用途词典，可视化效果
 - [The Merriam-Webster Learnersdictionary](https://learnersdictionary.com/definition/derive) 学习型词典，用简单词汇解释，简单明了
 - [forvo.com](forvo.com) forvo.com 
+- https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000   
 
 翻译
 - [https://www.deepl.com/translator](https://www.deepl.com/translator) 人工智能语言辅助 DeepL训练人工智能来 理解和翻译文本。
