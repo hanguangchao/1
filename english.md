@@ -23,3 +23,4 @@ Books
 - [youglish](https://youglish.com/) 
 - [https://easypronunciation.com/](https://easypronunciation.com/) https://easypronunciation.com/ 
 - [https://www.playphrase.me/#/search](https://www.playphrase.me/#/search) 单词视频搜索
+- https://www.english-corpora.org/coca/
